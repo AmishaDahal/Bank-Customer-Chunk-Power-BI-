@@ -4,6 +4,12 @@ This repository contains the complete Power BI solution for **Customer Churn Ana
 The dashboard provides a clean, interactive, and insightful view of customer behavior, churn patterns, demographics, and credit risk categories.  
 It showcases DAX calculations, data modeling, transformation pipelines, and enterprise-ready Power BI features such as RLS, gateways, bookmarks, and scheduled refresh.
 
+<div style="display:flex; gap:30px;">
+  <img src="images/Customerchunkhomepage.png" width="325">
+  <img src="images/Customerchunkhomepage.png" width="325">
+  <img src="images/Customerchunkhomepage.png" width="325">
+</div>
+
 ---
 
 ## 🔄 Project Flow Steps
