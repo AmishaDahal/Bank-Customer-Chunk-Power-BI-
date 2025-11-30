@@ -6,8 +6,8 @@ It showcases DAX calculations, data modeling, transformation pipelines, and ente
 
 <div style="display:flex; gap:30px;">
   <img src="images/Customerchunkhomepage.png" width="325">
-  <img src="images/Customerchunkhomepage.png" width="325">
-  <img src="images/Customerchunkhomepage.png" width="325">
+  <img src="images/Francerole.png" width="325">
+  <img src="images/Spainrole.png" width="325">
 </div>
 
 ---
